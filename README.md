@@ -7,6 +7,10 @@ The code is Intel x86_64 assembly, compiled with gcc on OS X 10.6 (Darwin 10.8) 
 
 g++ -g -o mandelbrot mandelbrot.cpp -framework Carbon -framework OpenGL -framework GLUT -fasm-blocks
 
+Screenshot
+=========
+![Alt text](screenshot.png "Mandelbrot screenshot")
+
 License
 =======
 
