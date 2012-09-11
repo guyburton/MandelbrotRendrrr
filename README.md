@@ -9,7 +9,7 @@ g++ -g -o mandelbrot mandelbrot.cpp -framework Carbon -framework OpenGL -framewo
 
 Screenshot
 =========
-![Alt text](screenshot.png "Mandelbrot screenshot")
+![Alt text](https://github.com/guy127917/MandelbrotRendrrr/blob/master/screenshot.png?raw=true "Mandelbrot screenshot")
 
 License
 =======
